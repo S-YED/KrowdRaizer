@@ -92,9 +92,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any queries or feedback, please reach out to:
-- **Name:** [SYED KHAJA MOINUDDIN]
-- **Email:** [syedkhajamoinuddin293@gmail.com]
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/syed-khaja-moinuddin-051495254/)]
+- **Name:** [[SYED KHAJA MOINUDDIN](https://syed.rf.gd/)]
+- **Email:** [syedkhajamoinuddin293@gmail.com
+- **LinkedIn:** [[My LinkedIn Profile](https://www.linkedin.com/in/syed-khaja-moinuddin-051495254/)]
 
 ---
 
